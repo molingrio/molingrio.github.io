@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /ml.svg
+heroImage: /logo.svg
 heroText: Molingrio
 heroFullScreen: true
 tagline: You can try a lot.
@@ -41,6 +41,5 @@ projects:
 footer: 愿你文思泉涌，破除焦虑，把握信息，主宰思想。
 ---
 
-前端设置 `layout: BlogHome` 和 `home: true`。
 
 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
