@@ -7,7 +7,7 @@ bgImage: /f.jpg
 heroImage: /ml.png
 heroText: MOLINGRIO
 heroFullScreen: true
-tagline: Welcome to the world of molingrio,You can try a lot.
+tagline: Dao impermanence
 projects:
   - icon: project
     name: bilibili
@@ -35,9 +35,9 @@ projects:
     link: https://www.aliyundrive.com/s/gZYctt58riL
 
   - icon: route
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+    name: AIGC
+    desc: 人工智能项目
+    link: https://wht.im
 
 footer: 愿你文思泉涌，破除焦虑，把握信息，主宰思想。
 ---
