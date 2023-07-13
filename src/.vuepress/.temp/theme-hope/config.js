@@ -1,16 +1,16 @@
 import { defineClientConfig } from "@vuepress/client";
-import { VPLink } from "F:/VUEpress/my-docs/node_modules/vuepress-shared/lib/client/index.js";
+import { VPLink } from "F:/VUEpress/molingrio.github.io/node_modules/vuepress-shared/lib/client/index.js";
 
-import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "F:/VUEpress/my-docs/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "F:/VUEpress/molingrio.github.io/node_modules/vuepress-theme-hope/lib/bundle/export.js";
 
-import { defineAutoCatalogIconComponent } from "F:/VUEpress/my-docs/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
-import { BlogCategory, BlogHome, BlogType, BloggerInfo, Timeline, setupBlog } from "F:/VUEpress/my-docs/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/export.js";
-import "F:/VUEpress/my-docs/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/styles/all.scss";
-import { GlobalEncrypt, LocalEncrypt } from "F:/VUEpress/my-docs/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
-import "F:/VUEpress/my-docs/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
-import Slide from "F:/VUEpress/my-docs/node_modules/vuepress-plugin-md-enhance/lib/client/SlidePage.js";
+import { defineAutoCatalogIconComponent } from "F:/VUEpress/molingrio.github.io/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
+import { BlogCategory, BlogHome, BlogType, BloggerInfo, Timeline, setupBlog } from "F:/VUEpress/molingrio.github.io/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/export.js";
+import "F:/VUEpress/molingrio.github.io/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/styles/all.scss";
+import { GlobalEncrypt, LocalEncrypt } from "F:/VUEpress/molingrio.github.io/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
+import "F:/VUEpress/molingrio.github.io/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
+import Slide from "F:/VUEpress/molingrio.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/SlidePage.js";
 
-import "F:/VUEpress/my-docs/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
+import "F:/VUEpress/molingrio.github.io/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
 
 defineAutoCatalogIconComponent(HopeIcon);
 

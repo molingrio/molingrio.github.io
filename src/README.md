@@ -3,8 +3,9 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
+bgImage: /f.jpg
 heroImage: /logo.svg
-heroText: Molingrio
+heroText: MOLINGRIO
 heroFullScreen: true
 tagline: You can try a lot.
 projects:
@@ -33,7 +34,7 @@ projects:
     desc: 摄影项目
     link: https://你的伙伴链接
 
-  - icon: /logo.svg
+  - icon: route
     name: 自定义项目
     desc: 自定义详细介绍
     link: https://你的自定义链接
