@@ -15,7 +15,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "/ml.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -27,7 +27,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  footer: "——————Molingrio——————",
 
   displayFooter: true,
 
@@ -35,13 +35,13 @@ export default hopeTheme({
     description: "You can try a lot",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://example.com",
+      Baidu: "https://baidu.com",
+      BiliBili: "https://bilibili.com",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
       Discord: "https://example.com",
       Dribbble: "https://example.com",
-      Email: "mailto:info@example.com",
+      Email: "mailto:molingofficial@gmail.com",
       Evernote: "https://example.com",
       Facebook: "https://example.com",
       Flipboard: "https://example.com",

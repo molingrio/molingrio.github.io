@@ -4,10 +4,10 @@ layout: BlogHome
 icon: home
 title: 博客主页
 bgImage: /f.jpg
-heroImage: /logo.svg
+heroImage: /ml.png
 heroText: MOLINGRIO
 heroFullScreen: true
-tagline: You can try a lot.
+tagline: Welcome to the world of molingrio,You can try a lot.
 projects:
   - icon: project
     name: bilibili
@@ -30,9 +30,9 @@ projects:
     link: https://mp.weixin.qq.com/s/3ipe-aUGDQv4FDWiM24Ycg
 
   - icon: friend
-    name: 未定
+    name: For view only
     desc: 摄影项目
-    link: https://你的伙伴链接
+    link: https://www.aliyundrive.com/s/gZYctt58riL
 
   - icon: route
     name: 自定义项目

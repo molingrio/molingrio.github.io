@@ -58,7 +58,8 @@ copyright: 无版权
 > 文字结尾应该有深蓝色的 徽章文字 徽章。 <Badge text="徽章文字" color="#242378" />
 
 ## 页面结构
-
+Euler's identity $e^{i\pi}+1=0$ is a beautiful formula in $\mathbb{R}^2$.
+e^{i\pi}+1=0 \mathbb{R}^2
 此页面应当包含:
 
 - [路径导航](https://theme-hope.vuejs.press/zh/guide/layout/breadcrumb.html)
