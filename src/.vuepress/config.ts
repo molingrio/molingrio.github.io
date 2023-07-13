@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "博客演示",
+  title: "MOLINGRIO  ©All rights reserved.",
   description: "vuepress-theme-hope 的博客演示",
 
   theme,
