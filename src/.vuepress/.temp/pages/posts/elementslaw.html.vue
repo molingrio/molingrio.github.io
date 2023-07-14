@@ -35,6 +35,8 @@
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
 <p><strong>现在提示词被放进了代码块里，可以更方便的复制</strong></p>
+<p>移动端点击一下提示词即可在右端显示复制按钮。</p>
+<p>pc端鼠标移动到右端即可。</p>
 </div>
 <figure><img src="@source/posts/media/0e9eb75d38b5fd7e09924f862c33b50e.png" alt="IMG_start" tabindex="0" loading="lazy"><figcaption>IMG_start</figcaption></figure>
 <div class="language-txt line-numbers-mode" data-ext="txt"><pre v-pre class="language-txt"><code>original, (masterpiece), (illustration), (extremely fine and beautiful), perfect detailed, photorealistic, (beautiful and clear background:1.25), (depth of field:0.7), (1 cute girl with (cat ear and cat tail:1.2) stands in the garden:1.1), (cute:1.35), (detailed beautiful eyes:1.3), (beautiful face:1.3), casual, silver hair, silver ear, (blue hair:0.8), (blue ear:0.8), long hair, coat, short skirt, hair blowing with the wind, (blue eye:1.2), flowers, (little girl:0.65), butterflys flying around Negative prompt: EasyNegative,extra limbs,three leg,three hand,penis Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 6, Seed: 2068707324, Size: 640x960, Model hash: 5801911d1a, Model: [M]LoliV1_Fix_FP16, Clip skip: 2, ENSD: 31337

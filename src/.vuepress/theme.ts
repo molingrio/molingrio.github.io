@@ -83,6 +83,9 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+	copyCode: {
+		showInMobile: true
+	},
 
     comment: {
       // You should generate and use your own comment service

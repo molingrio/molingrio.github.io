@@ -65,8 +65,6 @@ export const pagesComponents = {
   "v-76b80ea2": defineAsyncComponent(() => import(/* webpackChunkName: "v-76b80ea2" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/category/蔬菜/index.html.vue")),
   // path: /tag/%E7%8B%97%E7%8B%97/
   "v-a0483a7e": defineAsyncComponent(() => import(/* webpackChunkName: "v-a0483a7e" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/狗狗/index.html.vue")),
-  // path: /category/-ai_--%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
-  "v-58631573": defineAsyncComponent(() => import(/* webpackChunkName: "v-58631573" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/category/-ai_--使用指南/index.html.vue")),
   // path: /tag/%E5%93%88%E5%A3%AB%E5%A5%87/
   "v-655561c6": defineAsyncComponent(() => import(/* webpackChunkName: "v-655561c6" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/哈士奇/index.html.vue")),
   // path: /tag/%E8%AD%A6%E5%AF%9F/
