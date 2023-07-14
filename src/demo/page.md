@@ -59,7 +59,17 @@ copyright: 无版权
 
 ## 页面结构
 
-此页面应当包含:
+```txt
+此页面应当包含
+```
+
+```markdown
+vgg
+```
+
+```bash
+fgfghfgfvfbgg
+```
 
 - [路径导航](https://theme-hope.vuejs.press/zh/guide/layout/breadcrumb.html)
 - [标题和页面信息](https://theme-hope.vuejs.press/zh/guide/feature/page-info.html)

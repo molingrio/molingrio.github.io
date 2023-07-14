@@ -157,6 +157,7 @@ npm i -D vuepress-theme-hope
 #### 任务列表
 
 - [x] 计划 1
+
 - [ ] 计划 2
 
 - [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/tasklist.html)

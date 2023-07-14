@@ -26,8 +26,10 @@
 <p>文字结尾应该有深蓝色的 徽章文字 徽章。 <Badge text="徽章文字" color="#242378" /></p>
 </blockquote>
 <h2 id="页面结构" tabindex="-1"><a class="header-anchor" href="#页面结构" aria-hidden="true">#</a> 页面结构</h2>
-<p>此页面应当包含:</p>
-<ul>
+<div class="language-txt line-numbers-mode" data-ext="txt"><pre v-pre class="language-txt"><code>此页面应当包含
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><div class="language-markdown line-numbers-mode" data-ext="md"><pre v-pre class="language-markdown"><code>vgg
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><div class="language-bash line-numbers-mode" data-ext="sh"><pre v-pre class="language-bash"><code>fgfghfgfvfbgg
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><ul>
 <li><a href="https://theme-hope.vuejs.press/zh/guide/layout/breadcrumb.html" target="_blank" rel="noopener noreferrer">路径导航<ExternalLinkIcon/></a></li>
 <li><a href="https://theme-hope.vuejs.press/zh/guide/feature/page-info.html" target="_blank" rel="noopener noreferrer">标题和页面信息<ExternalLinkIcon/></a></li>
 <li><a href="https://theme-hope.vuejs.press/zh/guide/layout/page.html#%E6%A0%87%E9%A2%98%E5%88%97%E8%A1%A8" target="_blank" rel="noopener noreferrer">TOC (文章标题列表)<ExternalLinkIcon/></a></li>
