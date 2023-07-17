@@ -53,16 +53,12 @@ export const pagesComponents = {
   "v-65f6c1d3": defineAsyncComponent(() => import(/* webpackChunkName: "v-65f6c1d3" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/category/vpn/index.html.vue")),
   // path: /tag/markdown/
   "v-484552dc": defineAsyncComponent(() => import(/* webpackChunkName: "v-484552dc" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/markdown/index.html.vue")),
-  // path: /category/%E6%B0%B4%E6%9E%9C/
-  "v-12590846": defineAsyncComponent(() => import(/* webpackChunkName: "v-12590846" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/category/水果/index.html.vue")),
+  // path: /category/%E9%9A%8F%E7%AC%94/
+  "v-60649a06": defineAsyncComponent(() => import(/* webpackChunkName: "v-60649a06" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/category/随笔/index.html.vue")),
   // path: /tag/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/
   "v-a378ad66": defineAsyncComponent(() => import(/* webpackChunkName: "v-a378ad66" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/页面配置/index.html.vue")),
-  // path: /category/%E8%8D%89%E8%8E%93/
-  "v-247d58ff": defineAsyncComponent(() => import(/* webpackChunkName: "v-247d58ff" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/category/草莓/index.html.vue")),
   // path: /tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
   "v-7b167472": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b167472" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/使用指南/index.html.vue")),
-  // path: /category/%E8%94%AC%E8%8F%9C/
-  "v-76b80ea2": defineAsyncComponent(() => import(/* webpackChunkName: "v-76b80ea2" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/category/蔬菜/index.html.vue")),
   // path: /tag/%E7%8B%97%E7%8B%97/
   "v-a0483a7e": defineAsyncComponent(() => import(/* webpackChunkName: "v-a0483a7e" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/狗狗/index.html.vue")),
   // path: /tag/%E5%93%88%E5%A3%AB%E5%A5%87/
@@ -73,12 +69,10 @@ export const pagesComponents = {
   "v-b302fdee": defineAsyncComponent(() => import(/* webpackChunkName: "v-b302fdee" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/vpn/index.html.vue")),
   // path: /tag/%E6%9C%BA%E5%9C%BA/
   "v-39cc843c": defineAsyncComponent(() => import(/* webpackChunkName: "v-39cc843c" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/机场/index.html.vue")),
-  // path: /tag/%E7%BA%A2/
-  "v-0f1d0e94": defineAsyncComponent(() => import(/* webpackChunkName: "v-0f1d0e94" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/红/index.html.vue")),
-  // path: /tag/%E5%B0%8F/
-  "v-3e6b05e8": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e6b05e8" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/小/index.html.vue")),
-  // path: /tag/%E5%9C%86/
-  "v-301b24f4": defineAsyncComponent(() => import(/* webpackChunkName: "v-301b24f4" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/圆/index.html.vue")),
+  // path: /tag/emotion/
+  "v-5a3e80fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a3e80fc" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/emotion/index.html.vue")),
+  // path: /tag/damage/
+  "v-49ab4c92": defineAsyncComponent(() => import(/* webpackChunkName: "v-49ab4c92" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/damage/index.html.vue")),
   // path: /tag/ai/
   "v-0da0abf9": defineAsyncComponent(() => import(/* webpackChunkName: "v-0da0abf9" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/ai/index.html.vue")),
   // path: /tag/aigc/

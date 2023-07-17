@@ -10,7 +10,7 @@ export default hopeTheme({
 
   author: {
     name: "Molingrio",
-    url: "https://mister-hope.com",
+    url: "https://molingrio.github.io",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -72,7 +72,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/demo/encrypt.html": ["291243"],
     },
   },
 

@@ -14,6 +14,10 @@
     "@vuepress/client": "2.0.0-beta.66",
     "vue": "^3.2.47",
     "vuepress": "2.0.0-beta.66",
+    "vuepress-plugin-live2d-plus": "^0.2.2",
     "vuepress-theme-hope": "2.0.0-beta.233"
+  },
+  "dependencies": {
+    "vuepress-plugin-live2d": "^0.0.7"
   }
 }

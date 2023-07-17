@@ -2,12 +2,12 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
-bgImage: /f.jpg
+title: 主页
+bgImage: '/q3.jpg'
 heroImage: /ml.png
 heroText: MOLINGRIO
 heroFullScreen: true
-tagline: Dao impermanence
+tagline: モー・リンリ・アオ
 projects:
   - icon: project
     name: bilibili
@@ -43,4 +43,5 @@ footer: 愿你文思泉涌，破除焦虑，把握信息，主宰思想。
 ---
 
 
-[博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=0&id=7199817011&auto=1&height=90"></iframe>
