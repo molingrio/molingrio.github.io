@@ -9,13 +9,14 @@ tag:
   - 机场
 ---
 
-# VPN机场汇总
+# 廉价好用机场汇总
 
 ## [中国国际机场](https://1.fish)
 提供试用流量
 提供免流教程
 
-## [大航海](https://dhh.wtf)
+## [大航海](https://dhh.wtf/#/register?code=oyDUr3Dv)
+
 `1x` `3x` `0.1x`
 
 1. [Telegram群组](https://t.me/DHH6666)
@@ -23,7 +24,7 @@ tag:
 3. 原则上不限制设备数量，但是严禁共享节点。
 4. 如无法使用节点，可通过工单反馈，建议提供使用的浏览器，软件，以及节点等信息，如未提供任何信息，可能会直接被关闭工单。
 
-## [冲浪猫](https://clm.lol)
+## [冲浪猫](https://clm.lol/#/register?code=dJWBPLud)
 
 `1x`
 动态流媒体解锁 :

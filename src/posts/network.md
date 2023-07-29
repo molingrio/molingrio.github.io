@@ -1,7 +1,7 @@
 ---
 # 你可以自定义封面图片
 
-cover: /q1.jpg
+cover: /q4.jpg
 
 # 这是侧边栏的顺序
 
@@ -32,7 +32,7 @@ sticky: true
 star: true
 ---
 
-# openwrt使用技术总结 - 以r2s为例
+# openwrt使用总结 - 以nanopi r2s为例
 
 ## 固件问题
 
@@ -113,7 +113,7 @@ sh -c "$(curl -sSL http://fw.koolcenter.com/binary/LinkEase/Openwrt/install_link
 
 #### 基本设置
 
-- 上游dns地址：
+- 上游dns地址：经测试全部可用
 
 ```txt
 223.5.5.5
@@ -121,7 +121,6 @@ sh -c "$(curl -sSL http://fw.koolcenter.com/binary/LinkEase/Openwrt/install_link
 8.8.8.8
 8.8.4.4
 101.226.4.6
-tls://dot.360.cn
 120.196.165.24
 https://dns10.quad9.net/dns-query
 https://dns.google/dns-query
@@ -155,9 +154,9 @@ tls://1dot1dot1dot1.cloudflare-dns.com
 
 #### 安装
 
-[**github主站（停更）**](https://github.com/vernesong/OpenClash)
+[**github主站(内核)**](https://github.com/vernesong/OpenClash)
 
-[**luci-app-openclash**](https://github.com/frainzy1477/luci-app-clash/releases)：
+[**luci-app-openclash(图形界面)**](https://github.com/frainzy1477/luci-app-clash/releases)：
 
 下载安装Luc 控制接口ipk **luci-app-clash**然后在更新页下载新的clash内核。
 
@@ -197,7 +196,7 @@ tls://1dot1dot1dot1.cloudflare-dns.com
 
 #### 带宽只能跑一半
 
-普通bug，重启插件，重设配置，重启r2s，速度恢复即可停止操作。
+普通bug，重启插件，重设配置，重启r2s，速度恢复即可停止操作。然而TUN模式本来就对速度影响比较大，目前仅能跑80%速度。当然可能有各方面的原因，需要各位去探索。
 
 ### Aria2
 
@@ -225,3 +224,17 @@ check-certificate=false
 ## 现状
 
 该方案已经稳定运行几天，负载极低，温度50℃∓。
+
+考虑到不稳定性，此类设备不建议长时间运行.
+
+进入系统—计划任务，添加一条代码。
+
+```sh
+45 4 * * * sleep 70 && touch /etc/banner && reboot
+```
+
+意思是，每日凌晨4：45分自动重启一次。
+
+基本上将死机概率降低到很小。
+
+参考地址：[CSDN](https://blog.csdn.net/x_qingh/article/details/125508580)
