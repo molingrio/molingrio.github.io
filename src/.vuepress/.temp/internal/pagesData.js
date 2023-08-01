@@ -5,6 +5,8 @@ export const pagesData = {
   "v-184f4da6": () => import(/* webpackChunkName: "v-184f4da6" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/intro.html.js").then(({ data }) => data),
   // path: /slides.html
   "v-2e3eac9e": () => import(/* webpackChunkName: "v-2e3eac9e" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/slides.html.js").then(({ data }) => data),
+  // path: /verification.html
+  "v-3b3841c5": () => import(/* webpackChunkName: "v-3b3841c5" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/verification.html.js").then(({ data }) => data),
   // path: /demo/
   "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
   // path: /demo/disable.html
@@ -25,6 +27,8 @@ export const pagesData = {
   "v-df8b6e0c": () => import(/* webpackChunkName: "v-df8b6e0c" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/posts/tomato.html.js").then(({ data }) => data),
   // path: /posts/elementslaw.html
   "v-6408b763": () => import(/* webpackChunkName: "v-6408b763" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/posts/elementslaw.html.js").then(({ data }) => data),
+  // path: /posts/network.html
+  "v-3ff14240": () => import(/* webpackChunkName: "v-3ff14240" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/posts/network.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /posts/
@@ -77,4 +81,12 @@ export const pagesData = {
   "v-2826701d": () => import(/* webpackChunkName: "v-2826701d" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/aigc/index.html.js").then(({ data }) => data),
   // path: /tag/stable-diffusion/
   "v-63ee6e4e": () => import(/* webpackChunkName: "v-63ee6e4e" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/stable-diffusion/index.html.js").then(({ data }) => data),
+  // path: /tag/network/
+  "v-49627fe2": () => import(/* webpackChunkName: "v-49627fe2" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/network/index.html.js").then(({ data }) => data),
+  // path: /tag/%E6%97%A0%E7%BA%BF/
+  "v-40d48f2c": () => import(/* webpackChunkName: "v-40d48f2c" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/无线/index.html.js").then(({ data }) => data),
+  // path: /tag/openwrt/
+  "v-6f0097ee": () => import(/* webpackChunkName: "v-6f0097ee" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/openwrt/index.html.js").then(({ data }) => data),
+  // path: /tag/%E9%80%9A%E8%AE%AF/
+  "v-9024c41e": () => import(/* webpackChunkName: "v-9024c41e" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/通讯/index.html.js").then(({ data }) => data),
 }

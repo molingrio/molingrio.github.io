@@ -86,7 +86,9 @@ export default hopeTheme({
 	copyCode: {
 		showInMobile: true
 	},
-
+	sitemap: {
+		hostname: "molingrio.com",
+	},
     comment: {
       // You should generate and use your own comment service
       provider: "Waline",
