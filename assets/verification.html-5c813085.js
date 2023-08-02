@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as c,c as t,a as o}from"./app-1886d574.js";const a={},r=o("p",null,"verify_6c0c20b21d98ce1a6ba530da2971c609",-1),_=[r];function n(i,s){return c(),t("div",null,_)}const d=e(a,[["render",n],["__file","verification.html.vue"]]);export{d as default};
