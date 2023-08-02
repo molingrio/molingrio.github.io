@@ -62,8 +62,6 @@ star: true
 
 儒家作为统治工具的学派，存在了很长时间。秦始皇焚书坑儒，万卷奇珍毁于一旦，几千年的历史经验结晶归于破碎，追求思想自由变成了很奢侈的事情。只有少数被人隐藏起来，幸免于难。　
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/RzClv0Zw6iaHlRS78vVNYsGeeYkERmtns2j7GARicgycWzeCPWPe8bLwceo66VseAnmciasD5NlP2lQOia3pm0WDicA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
 
 
 《竹书纪年》是春秋时期晋国史官和战国时期魏国史官所作的一部编年体通史。于西晋咸宁五年(279年)，被汲郡(今河南汲县)人“不准”（人名，不念“bu zhun”念“fou三声 biao一声”）盗发战国时期魏襄王(或曰魏安釐王)的墓葬发现，亦称《汲冢纪年》、《古文纪年》(秦以前文字)，对研究先秦史有很高的史料价值。
