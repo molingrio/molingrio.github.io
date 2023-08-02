@@ -1,7 +1,7 @@
 ---
 # 你可以自定义封面图片
 
-cover: /aa.jpg
+cover: https://i.mji.rip/2023/08/02/1164afaaa1caf8ba6545568ebd42206c.jpeg
 
 # 这是页面的图标
 

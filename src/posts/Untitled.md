@@ -1,7 +1,7 @@
 ---
 # 你可以自定义封面图片
 
-cover: /q2.jpg
+cover: https://i.mji.rip/2023/08/02/e34702c3c3e881603de7b58933e6c79d.jpeg
 
 # 这是侧边栏的顺序
 

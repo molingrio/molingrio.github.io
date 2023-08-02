@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-bgImage: '/q3.jpg'
-heroImage: /ml.png
+bgImage: 'https://i.mji.rip/2023/08/02/201b4383e51ac04d0331071ac55ac104.jpeg'
+heroImage: https://i.im.ge/2023/08/02/9zruML.ml.png
 heroText: MOLINGRIO
 heroFullScreen: true
 tagline: モー・リンリ・アオ
