@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 主页
 bgImage: 'https://i.mji.rip/2023/08/02/201b4383e51ac04d0331071ac55ac104.jpeg'
-heroImage: https://i.im.ge/2023/08/02/9zruML.ml.png
+heroImage: https://i.mji.rip/2023/08/02/3ae6665c3486838a314e04940a67976c.md.png
 heroText: MOLINGRIO
 heroFullScreen: true
 tagline: モー・リンリ・アオ
