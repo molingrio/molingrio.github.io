@@ -95,6 +95,6 @@ export const pagesData = {
   "v-6f0097ee": () => import(/* webpackChunkName: "v-6f0097ee" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/openwrt/index.html.js").then(({ data }) => data),
   // path: /tag/%E9%80%9A%E8%AE%AF/
   "v-9024c41e": () => import(/* webpackChunkName: "v-9024c41e" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/通讯/index.html.js").then(({ data }) => data),
-  // path: /.~README.html
-  "v-21564982": () => import(/* webpackChunkName: "v-21564982" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/.~README.html.js").then(({ data }) => data),
+  // path: /posts/.~tomato.html
+  "v-50ffebac": () => import(/* webpackChunkName: "v-50ffebac" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/posts/.~tomato.html.js").then(({ data }) => data),
 }

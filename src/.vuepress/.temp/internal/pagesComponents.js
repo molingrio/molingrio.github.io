@@ -97,6 +97,6 @@ export const pagesComponents = {
   "v-6f0097ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f0097ee" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/openwrt/index.html.vue")),
   // path: /tag/%E9%80%9A%E8%AE%AF/
   "v-9024c41e": defineAsyncComponent(() => import(/* webpackChunkName: "v-9024c41e" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/通讯/index.html.vue")),
-  // path: /.~README.html
-  "v-21564982": defineAsyncComponent(() => import(/* webpackChunkName: "v-21564982" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/.~README.html.vue")),
+  // path: /posts/.~tomato.html
+  "v-50ffebac": defineAsyncComponent(() => import(/* webpackChunkName: "v-50ffebac" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/posts/.~tomato.html.vue")),
 }
