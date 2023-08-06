@@ -25,8 +25,6 @@ export const pagesComponents = {
   "v-7c9e35cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-7c9e35cc" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/posts/husky.html.vue")),
   // path: /posts/dragonfruit.html
   "v-24b7c48d": defineAsyncComponent(() => import(/* webpackChunkName: "v-24b7c48d" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/posts/dragonfruit.html.vue")),
-  // path: /posts/strawberry.html
-  "v-f0ec4556": defineAsyncComponent(() => import(/* webpackChunkName: "v-f0ec4556" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/posts/strawberry.html.vue")),
   // path: /posts/tomato.html
   "v-df8b6e0c": defineAsyncComponent(() => import(/* webpackChunkName: "v-df8b6e0c" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/posts/tomato.html.vue")),
   // path: /posts/elementslaw.html
@@ -99,4 +97,6 @@ export const pagesComponents = {
   "v-6f0097ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f0097ee" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/openwrt/index.html.vue")),
   // path: /tag/%E9%80%9A%E8%AE%AF/
   "v-9024c41e": defineAsyncComponent(() => import(/* webpackChunkName: "v-9024c41e" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/tag/通讯/index.html.vue")),
+  // path: /.~README.html
+  "v-21564982": defineAsyncComponent(() => import(/* webpackChunkName: "v-21564982" */"F:/VUEpress/molingrio.github.io/src/.vuepress/.temp/pages/.~README.html.vue")),
 }
